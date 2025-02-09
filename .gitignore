@@ -1,0 +1,9 @@
+    # Python virtual environment
+.venv/
+
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Temporary files
+temp.mp3
