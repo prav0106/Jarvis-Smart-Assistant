@@ -46,7 +46,7 @@ Welcome to **Jarvis**, your personal AI-powered virtual assistant that can liste
 
 ## 🛠 Dependencies
 
-Make sure to install all required dependencies before running the main.py:
+Make sure to install all required dependencies before running the project:
 
 - `speech_recognition`
 - `pyttsx3`
