@@ -10,7 +10,7 @@ Welcome to **Jarvis**, your personal AI-powered virtual assistant that can liste
 - 🌐 **Web Navigation**: Open Google, YouTube, Facebook, LinkedIn, and more.
 - 🎵 **Music Player**: Play songs from a predefined library.
 - 📰 **News Updates**: Fetches the latest news headlines.
-
+- 🤖 **AI Responses**: Uses OpenAI API to answer queries.
 
 ## 📂 Project Structure
 
