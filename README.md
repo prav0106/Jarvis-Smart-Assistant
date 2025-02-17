@@ -2,6 +2,7 @@
 
 &#x20;
 
+Welcome to **Jarvis**, your personal AI-powered virtual assistant that can listen to voice commands and perform various tasks like opening websites, playing music, fetching news, and even generating AI responses! 🧠⚡
 
 ## ✨ Features
 
