@@ -68,11 +68,3 @@ To use OpenAI and NewsAPI functionalities, replace `<Your Key Here>` in `main.py
 
 Feel free to fork this repository, make improvements, and submit a pull request. 🚀
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
-### 💬 Have Suggestions?
-
-Open an issue or reach out! 😊
-
