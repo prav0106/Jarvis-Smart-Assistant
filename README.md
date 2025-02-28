@@ -27,7 +27,7 @@ Welcome to **Jarvis**, your personal AI-powered virtual assistant that can liste
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/Jarvis-AI.git
+   git clone https://github.com/prav0106/Jarvis-AI.git
    cd Jarvis-AI
    ```
 2. **Create a virtual environment**
